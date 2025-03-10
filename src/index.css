@@ -3,18 +3,20 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
-  color: #FFF;
 }
 
 body {
-  background-color: #0e1129;
+  background-color: #f5e6d7;
   padding: 2rem;
+  color: #7c6f64;
 }
 
 p {
   text-align: center;
+  color: #7c6f64;
 }
 
 a {
   text-decoration: none;
+  color: #eeeeeee8;
 }

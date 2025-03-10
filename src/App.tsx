@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className={classes.app}>
-        <h1> GitHub Finder Vanessa</h1>
+        <h1> Procurar por usuário do GitHub!</h1>
         <Outlet />
       </div>
     </>

@@ -44,7 +44,7 @@
 }
 
 .stats div:first-child {
-    border-right: 1px solid #eeeeeee8;
+    border-right: 1px solid #c4b7a6;
 }
 
 .stats .number {
@@ -91,11 +91,4 @@
 .search_container button {
     padding: .6rem;
     border-radius: 3px;
-    border: none;
-    color: #7c6f64;
-}
-
-.search_container button {
-    background-color: #a48c74;
-    cursor: pointer;
 }

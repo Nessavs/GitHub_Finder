@@ -19,7 +19,9 @@ const router = createBrowserRouter([
       }
     ]
   }
-])
+], {
+  basename: "/github_finder/"
+})
 
 
 createRoot(document.getElementById('root')!).render(

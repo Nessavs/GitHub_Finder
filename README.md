@@ -52,3 +52,8 @@ export default tseslint.config({
   },
 })
 ```
+
+
+
+![Captura de tela 2025-03-11 105330](https://github.com/user-attachments/assets/515830a8-62b3-46de-a6fe-c317c3bc63e8)
+![Captura de tela 2025-03-11 105430](https://github.com/user-attachments/assets/10abc486-bf9b-446a-8d90-526c8b1d6698)
